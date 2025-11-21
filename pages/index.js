@@ -13,7 +13,7 @@ function Home() {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: "#717378",
+        backgroundColor: "#2b3137",
       }}
     >
       <p>Silas Buarque</p>
