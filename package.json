@@ -1,0 +1,21 @@
+{
+  "name": "silas-buarque",
+  "version": "1.0.0",
+  "description": "Site do desenvolvedor Silas Buarque",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
